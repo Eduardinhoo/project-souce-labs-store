@@ -1,0 +1,49 @@
+qa-portfolio-saucedemo
+│
+├── README.md
+│
+├── docs
+│   ├── product-overview.md
+│   ├── test-strategy.md
+│   ├── test-plan.md
+│
+├── user-stories
+│   └── user-stories.md
+│
+├── test-scenarios
+│   ├── login-scenarios.md
+│   └── purchase-scenarios.md
+│
+├── test-cases
+│   ├── login-test-cases.md
+│   └── purchase-test-cases.md
+│
+├── bdd
+│   └── purchase.feature
+│
+├── bug-reports
+│   ├── bug-report-template.md
+│   └── bug-list.md
+│
+├── bug-dashboard
+│   └── bug-metrics.md
+│
+├── test-execution
+│   └── test-execution-report.md
+│
+├── automation
+│   ├── requirements.txt
+│   ├── pages
+│   │   ├── login_page.py
+│   │   ├── inventory_page.py
+│   │   └── checkout_page.py
+│   │
+│   └── tests
+│       ├── test_login.py
+│       └── test_purchase.py
+│
+├── api-tests
+│   └── postman_collection.json
+│
+└── jira
+    └── jira-bugs.md
